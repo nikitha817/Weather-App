@@ -38,8 +38,8 @@ Step 3: Run It
 ```bash
 python weather_app.py
 ```
-Example Output
-
+## Example Output
+```python
 Enter city name: London
 ========================================
         Weather Information
@@ -65,7 +65,7 @@ Pressure       : 1013 hPa
 Wind Speed     : 4.12 m/s
 Search for another city? (y/n): n
 Thank you for using the Weather App!
-
+```
 ## What I Learned
 
 - Sending HTTP requests with Python requests.
